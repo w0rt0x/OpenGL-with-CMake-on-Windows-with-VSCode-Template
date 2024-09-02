@@ -1,2 +1,2 @@
 # OpenGL with CMake on Windows with VSCode Template
- Template
+ Template for future OpenGL projects
